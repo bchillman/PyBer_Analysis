@@ -27,4 +27,4 @@ We can also look at the total fares by city type over time. This was done for 20
 As expected, the urban fares are always much higher than suburban, which are higher than rural fares. In addition, there does not seem to be 
 ## PyBer-Analysis Summary
 ### Business Recommendations
-B
+From thee results, we can make 3 business recommendations. First, PyBer can attempt to market more to suburban and rural areas. While it does make some sense that there are fewer rides in these areas, PyBer can attempt to close this gap with effective marketing strategies. Second, since the average fare per ride in the rural and suburban areas is significantly higher, PyBer can offer sign-up bonuses to new drivers in these areas. This will increase the number of drivers in these areas and lower the cost per ride. Finally, PyBer can potentially add incentives to drivers to drive on days that there may be spikes in needs for rides (weekends or holidays) to keep the fare per ride on those days slightly lower, as well as making sure there are enough drivers.
